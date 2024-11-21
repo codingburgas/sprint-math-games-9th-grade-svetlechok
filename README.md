@@ -21,7 +21,7 @@ And last but not least, we learn to work together, helping each other and trying
 If you need help with this project, you can use the following resources:
 ### 1. **Documentation**: Check the official documentation for detailed guides and references.
 ### 2. **Chat**: Get real-time support on our Discord server. You can dm any of us.
-   Elizaveta - _lizik_.
+   Elizaveta - @_lizik_.
    
    Daria - @owberix
    
