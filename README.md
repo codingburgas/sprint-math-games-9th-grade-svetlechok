@@ -33,6 +33,7 @@ And last but not least, we learn to work together, helping each other and trying
 | Down arrow        | ↓     |
 | Enter             | <img src="https://user-images.githubusercontent.com/86193762/144746117-f890b257-9bbc-4c71-9013-3814d1b89e88.png" width ="25"> |
 | Mouse             | <img src="https://imgs.search.brave.com/eNlngDa-dSezrgIkrWZBEuNYkbW1Jr9HLQSVKDobDOk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvY29tcHV0ZXJf/bW91c2Uvc21hbGwv/Y29tcHV0ZXJfbW91/c2VfUE5HNzcwMC5w/bmc" width ="25"> |
+| Enter             | <img src="https://cdn.mywebicons.ru/i/webp/30abd0fdac4c61abc30a2a67d56acd87.webp" width ="25"> |
 #
 
 
