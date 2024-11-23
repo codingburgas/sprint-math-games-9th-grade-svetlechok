@@ -100,7 +100,7 @@ int main() {
             cin >> guess;
 
             if (guess.length() != 5) {
-                cout << "Please enter a 5-letter word.\n";
+                cout << "Invalid answer! Please enter a 5-letter word.\n";
                 continue;  
             }
 
