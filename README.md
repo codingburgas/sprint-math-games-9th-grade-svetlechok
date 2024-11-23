@@ -32,7 +32,7 @@ And last but not least, we learn to work together, helping each other and trying
 | Up arrow          | ↑     |
 | Down arrow        | ↓     |
 | Enter             | <img src="https://user-images.githubusercontent.com/86193762/144746117-f890b257-9bbc-4c71-9013-3814d1b89e88.png" width ="25"> |
-| Mouse             | <img src="[https://user-images.githubusercontent.com/86193762/144746117-f890b257-9bbc-4c71-9013-3814d1b89e88.png](https://www.pngmart.com/image/9721)" width ="25"> |
+| Mouse             | <img src="https://user-images.githubusercontent.com/86193762/144746117-f890b257-9bbc-4c71-9013-3814d1b89e88.png" width ="25"> |
 #
 
 
