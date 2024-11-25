@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\header.h",
+              "RelativeDocumentMoniker": "main project\\header.h",
+              "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\header.h",
+              "RelativeToolTip": "main project\\header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T20:23:53.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\numbers.cpp",
+              "RelativeDocumentMoniker": "main project\\numbers.cpp",
+              "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\numbers.cpp",
+              "RelativeToolTip": "main project\\numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T20:22:52.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
