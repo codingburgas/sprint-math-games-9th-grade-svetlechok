@@ -3,7 +3,6 @@
 
 ## 👨🏻‍👩🏻‍👧🏻 Meet our team!
 
-Our project is based on the guess-a-word game, widely popular around the world - **WORDLE!** The code was written by a 5-member team, consisting of:
 - Elizaveta Furnika, as a _Scrum trainer_;
 - Daria Larichkina, as a _BackEnd developer_;
 - Georgy Dobrev, as a _FrontEnd developer_;
@@ -40,6 +39,34 @@ And last but not least, we learn to work together, helping each other and trying
 ## 💡 How to start the game?
 ****here'll be an instruction
 
+
+## 💻 Used Technologies
+
+<h3> Used code editor & collaborative service:</h3> 
+<p align="left">
+  <p>
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio 2022 logo" width=48px>
+    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub logo" width=48px>
+    <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git" width=48px>
+    <img src="https://imgs.search.brave.com/TCaxXba6FDPgBLScFrXyOPLtb0Fp46vZUEJEvcAY6h8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vbWk0/NjJtZTk5LW1pY3Jv/c29mdC10ZWFtcy1s/b2dvLW1pY3Jvc29m/dC10ZWFtcy5wbmc" alt="Teams" width=48px>
+  </p>
+</p>
+
+<h3>Used technologies for our project development:</h3> 
+<p align="left">
+    <p>
+    <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="C++" width=48px>
+    </p>
+</p>
+
+<h3>Used tools for our documentation:</h3> 
+<p align="left">
+    <p>
+    <img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" alt="Word" width=48px>
+    <img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" alt="PowerPoint" width=48px>
+    </p>
+</p>
+<hr>
 
 ## 🙌🏻 Where to Get Help
 If you need help with this project, you can use the following resources:
