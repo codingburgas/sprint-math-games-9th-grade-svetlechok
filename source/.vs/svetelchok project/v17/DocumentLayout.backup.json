@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\main project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\wordleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\wordleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\mathproblems.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1781CB4B-479E-49AC-B975-953B92153A6A}|main project\\main project.vcxproj|solutionrelative:main project\\mathproblems.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mathproblems.cpp",
+              "DocumentMoniker": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\mathproblems.cpp",
+              "RelativeDocumentMoniker": "main project\\mathproblems.cpp",
+              "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\mathproblems.cpp",
+              "RelativeToolTip": "main project\\mathproblems.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T21:08:57.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wordleGame.cpp",
+              "DocumentMoniker": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\wordleGame.cpp",
+              "RelativeDocumentMoniker": "main project\\wordleGame.cpp",
+              "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\wordleGame.cpp",
+              "RelativeToolTip": "main project\\wordleGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T21:02:00.424Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,35 +60,22 @@
               "RelativeDocumentMoniker": "main project\\main project.cpp",
               "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\main project.cpp",
               "RelativeToolTip": "main project\\main project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-25T14:41:11.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "header.h",
               "DocumentMoniker": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\header.h",
               "RelativeDocumentMoniker": "main project\\header.h",
               "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\header.h",
               "RelativeToolTip": "main project\\header.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-24T20:23:53.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "numbers.cpp",
-              "DocumentMoniker": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\numbers.cpp",
-              "RelativeDocumentMoniker": "main project\\numbers.cpp",
-              "ToolTip": "C:\\Users\\Dobrevi\\Desktop\\project\\git project\\source\\main project\\numbers.cpp",
-              "RelativeToolTip": "main project\\numbers.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T20:22:52.882Z",
-              "EditorCaption": ""
             }
           ]
         }

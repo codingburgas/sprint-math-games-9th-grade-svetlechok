@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main project.cpp" />
-    <ClCompile Include="numbers.cpp" />
+    <ClCompile Include="mathproblems.cpp" />
+    <ClCompile Include="wordleGame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />

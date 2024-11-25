@@ -1,2 +1,6 @@
-﻿  numbers.cpp
+﻿  main project.cpp
+  mathproblems.cpp
+  wordleGame.cpp
+C:\Users\Dobrevi\Desktop\project\git project\source\main project\wordleGame.cpp(68,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   main project.vcxproj -> C:\Users\Dobrevi\Desktop\project\git project\source\x64\Debug\main project.exe

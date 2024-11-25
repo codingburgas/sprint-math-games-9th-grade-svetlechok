@@ -18,7 +18,10 @@
     <ClCompile Include="main project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="numbers.cpp">
+    <ClCompile Include="wordleGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mathproblems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
