@@ -12,10 +12,10 @@
 #### !📚 Meet our _Mentor_ - Antoniya Taneva, who gave us instructions and clarifications when needed 📚!
 
 
-##💡 Game options:
+## 💡 Game options:
 ‣ WORDLE is generally known as a way to relax, train your brain and extend your vocabulary. We highly reccomend to both adults and children to try the original wordle game or play our self-made version of it!
 
-‣ 
+‣ Cool game where you can check your math knowedges!
 
 #  🎮 Controls
 | Keys              | Icons |
@@ -29,8 +29,8 @@
 
 
 ## 💣 How to start the game?
-****here'll be an instruction
-
+Use this link and start the game!
+<pre>https://github.com/codingburgas/sprint-math-games-9th-grade-svetlechok.git</pre>
 
 ## 💻 Used Technologies
 
